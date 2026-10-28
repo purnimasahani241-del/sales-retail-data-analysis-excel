@@ -42,3 +42,7 @@ Interactive Dashboard Development
 Data Visualization
 Business Intelligence
 Sales Trend Analysis
+
+## Dashboard Preview
+
+![Sales and Retail Dashboard](Sales_Retail_Dashboard.png)
